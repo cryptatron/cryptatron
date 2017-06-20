@@ -1,4 +1,5 @@
 Cryptotron
 ==========
 
-[Link to another page](docs)
+[About](about)
+[Documentation](docs)
