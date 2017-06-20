@@ -1,5 +1,6 @@
 Cryptotron
 ==========
 
-[About](about)
-[Documentation](docs)
+- [About](about)
+- [[About|about]]
+- [Documentation](docs)
